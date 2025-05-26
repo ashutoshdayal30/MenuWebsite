@@ -1,0 +1,107 @@
+[
+  {
+    "title": "Spaghetti Carbonara",
+    "ingredients": "Spaghetti, eggs, pancetta, Parmesan, pepper",
+    "steps": "Boil pasta, cook pancetta, mix eggs and cheese, combine all.",
+    "author": "RecipeHub",
+    "image": "/images/carbonara.jpg"
+  },
+  {
+    "title": "Chicken Tikka Masala",
+    "ingredients": "Chicken, yogurt, tomato sauce, garam masala, garlic",
+    "steps": "Marinate chicken, grill it, cook with spiced tomato sauce.",
+    "author": "RecipeHub",
+    "image": "/images/tikka.jpg"
+  },
+  {
+    "title": "Beef Bulgogi",
+    "ingredients": "Beef, soy sauce, sugar, garlic, sesame oil",
+    "steps": "Marinate beef, grill over high heat, serve with rice.",
+    "author": "RecipeHub",
+    "image": "/images/bulgogi.jpg"
+  },
+  {
+    "title": "Sushi Rolls",
+    "ingredients": "Sushi rice, nori, cucumber, avocado, crab meat",
+    "steps": "Spread rice on nori, add fillings, roll and slice.",
+    "author": "RecipeHub",
+    "image": "/images/sushi.jpg"
+  },
+  {
+    "title": "Pad Thai",
+    "ingredients": "Rice noodles, tofu, shrimp, eggs, tamarind sauce",
+    "steps": "Stir fry tofu and shrimp, add noodles, sauce, and egg.",
+    "author": "RecipeHub",
+    "image": "/images/padthai.jpg"
+  },
+  {
+    "title": "Miso Soup",
+    "ingredients": "Miso paste, tofu, seaweed, scallions, dashi broth",
+    "steps": "Heat broth, stir in miso, add tofu and seaweed.",
+    "author": "RecipeHub",
+    "image": "/images/miso.jpg"
+  },
+  {
+    "title": "Tacos al Pastor",
+    "ingredients": "Pork, pineapple, achiote paste, onions, cilantro",
+    "steps": "Marinate pork, grill it, serve in tortillas with toppings.",
+    "author": "RecipeHub",
+    "image": "/images/tacos.jpg"
+  },
+  {
+    "title": "Butter Chicken",
+    "ingredients": "Chicken, butter, cream, tomato, spices",
+    "steps": "Cook chicken, make creamy tomato sauce, simmer together.",
+    "author": "RecipeHub",
+    "image": "/images/butterchicken.jpg"
+  },
+  {
+    "title": "Tom Yum Soup",
+    "ingredients": "Shrimp, lemongrass, galangal, lime, chili paste",
+    "steps": "Boil broth, add aromatics, shrimp, and season.",
+    "author": "RecipeHub",
+    "image": "/images/tomyum.jpg"
+  },
+  {
+    "title": "Falafel Wrap",
+    "ingredients": "Chickpeas, garlic, parsley, flour, pita, tahini",
+    "steps": "Blend mix, fry balls, wrap with sauce and veggies.",
+    "author": "RecipeHub",
+    "image": "/images/falafel.jpg"
+  },
+  {
+    "title": "Margherita Pizza",
+    "ingredients": "Pizza dough, tomato sauce, mozzarella, basil",
+    "steps": "Spread sauce on dough, add cheese and basil, bake.",
+    "author": "RecipeHub",
+    "image": "/images/pizza.jpg"
+  },
+  {
+    "title": "Cheeseburger Soup",
+    "ingredients": "Ground beef, potatoes, cheese, broth, onions",
+    "steps": "Brown meat, add vegetables and broth, stir in cheese.",
+    "author": "RecipeHub",
+    "image": "/images/cheeseburgersoup.jpg"
+  },
+  {
+    "title": "Kung Pao Noodles",
+    "ingredients": "Noodles, chicken, peppers, peanuts, soy sauce",
+    "steps": "Cook noodles, stir-fry chicken and veggies, mix all.",
+    "author": "RecipeHub",
+    "image": "/images/kungpao.jpg"
+  },
+  {
+    "title": "Vegetable Soup",
+    "ingredients": "Carrots, celery, beans, tomatoes, pasta",
+    "steps": "Boil vegetables in broth, add pasta, simmer.",
+    "author": "RecipeHub",
+    "image": "/images/vegsoup.jpg"
+  },
+  {
+    "title": "Blackberry Smoothie",
+    "ingredients": "Blackberries, yogurt, honey, milk",
+    "steps": "Blend all ingredients until smooth, serve cold.",
+    "author": "RecipeHub",
+    "image": "/images/smoothie.jpg"
+  }
+]
